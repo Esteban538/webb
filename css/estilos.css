@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.banner{
+    background-color:#329721;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.descripcion{
+    background-color: #FFD359;
+    text-align: center;
+}
+.tablaproductos{
+    text-align: center;
+    margin: 15px;
+}
+.tablaproductos td{
+    padding: 20px;
+}
+.pie{
+    background-color: #329721;
+}
+.content{
+    color: white;
+    display: flex;
+}
+.col{
+    margin: 50px;
+    padding: 5px;
+}
+.col h5{
+    padding-bottom: 5px;    
+}
+.col p{
+    padding-bottom: 5px;
+}
+.col a{
+    display: flex;
+    text-decoration: none;
+    color: white;
+    padding-bottom: 10px;
+}
+.col a:hover{
+    color: rgba(255, 255, 0, 0.932);
+}
+.iconos{
+    text-align: center;
+    margin: 40px;
+    padding: 50px;
+    font-size: 35px;
+}
+.iconos i{
+    color: white;
+    margin-right: 20px;
+}
+.iconos i:hover{
+    color: #FFD359;
+}
+.copy{
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
